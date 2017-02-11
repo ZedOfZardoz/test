@@ -1,0 +1,4 @@
+git init
+git add index.htm
+git commit -m "your note"
+git push -u origin master
